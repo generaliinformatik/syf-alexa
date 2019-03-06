@@ -1,0 +1,71 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "<invocation name>",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "aus",
+                        "stop",
+                        "stopp",
+                        "abbruch",
+                        "nein"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "details",
+                    "slots": [],
+                    "samples": [
+                        "details",
+                        "detail",
+                        "ja",
+                        "weitere informationen",
+                        "mehr informationen",
+                        "mehr infos",
+                        "weitere infos",
+                        "weitere details",
+                        "mehr details",
+                        "weiter",
+                        "mehr"
+                    ]
+                },
+                {
+                    "name": "short",
+                    "slots": [],
+                    "samples": [
+                        "nur temperatur",
+                        "kurz",
+                        "minimal",
+                        "minimalistisch",
+                        "supershort",
+                        "mini"
+                    ]
+                },
+                {
+                    "name": "team",
+                    "slots": [],
+                    "samples": [
+                        "hackathon",
+                        "wir sind das team",
+                        "wer sind wir",
+                        "team"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
