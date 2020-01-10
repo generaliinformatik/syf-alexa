@@ -1,5 +1,8 @@
 # syf-alexa / Amazon Alexa Skill 
 
+> **Important note**: this solution was developed and provided as part of a hackathon. This
+> project is currently not being used in a project and is to be understood as a demo.
+
 Amazon Alexa Skill 'SyF' (working title) starts and queries the Sigfox backend via APIv2 for new IoT readings
 
 User: `Alexa, open <invocation name>.`<br />
